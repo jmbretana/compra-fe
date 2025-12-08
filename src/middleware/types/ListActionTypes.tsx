@@ -1,0 +1,13 @@
+export const LIST_MAKE_REQ = "LIST_MAKE_REQ"; // Acción para iniciar una solicitud
+export const LIST_GET_SUCCESS = "LIST_GET_SUCCESS"; // Acción para el éxito al obtener una solicitud
+export const LIST_GETALL_SUCCESS = "LIST_GETALL_SUCCESS";
+export const LIST_CREATE_SUCCESS = "LIST_CREATE_SUCCESS";
+export const LIST_UPDATE_SUCCESS = "LIST_UPDATE_SUCCESS";
+export const LIST_UPDATE_FAIL = "LIST_UPDATE_FAIL";
+export const LIST_GET_FAIL = "LIST_GET_FAIL"; // Acción para el fallo al obtener todas las solicitudes
+export const LIST_GETALL_FAIL = "LIST_GETALL_FAIL"; // Acción para el fallo al obtener todas las solicitudes
+export const LIST_FILTER_SUCCESS = "LIST_FILTER_SUCCESS";
+export const LIST_PAGINATED_SUCCESS = "LIST_PAGINATED_SUCCESS"; // Acción para el éxito al obtener productos paginados
+export const LIST_PAGINATED_FAIL = "LIST_PAGINATED_FAIL"; // Acción para el fallo al obtener productos paginados
+export const LIST_DELETE_SUCCESS = "LIST_DELETE_SUCCESS"; // Acción para el éxito al eliminar una solicitud
+export const LIST_DELETE_FAIL = "LIST_DELETE_FAIL"; // Acción para el fallo al eliminar una solicitud

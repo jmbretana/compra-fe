@@ -1,0 +1,10 @@
+export const BOOKMARK_MAKE_REQ = "BOOKMARK_MAKE_REQ"; // Acción para iniciar una solicitud
+export const BOOKMARK_GETALL_SUCCESS = "BOOKMARK_GETALL_SUCCESS"; // Acción para el éxito al obtener todas las solicitudes
+export const BOOKMARK_GETALL_FAIL = "BOOKMARK_GETALL_FAIL"; // Acción para el fallo al obtener todas las solicitudes
+export const BOOKMARK_GET_SUCCESS = "BOOKMARK_GET_SUCCESS"; // Acción para el éxito al obtener todas las solicitudes
+export const BOOKMARK_GET_FAIL = "BOOKMARK_GET_FAIL"; // Acción para el fallo al obtener todas las solicitudes
+export const BOOKMARK_CREATE_SUCCESS = "BOOKMARK_CREATE_SUCCESS"; // Acción para el éxito al obtener todas las solicitudes
+export const BOOKMARK_UPDATE_SUCCESS = "BOOKMARK_UPDATE_SUCCESS"; // Acción para el éxito al obtener todas las solicitudes
+export const BOOKMARK_UPDATE_FAIL = "BOOKMARK_UPDATE_FAIL"; // Acción para el fallo al obtener todas las s
+export const BOOKMARK_DELETE_SUCCESS = "BOOKMARK_DELETE_SUCCESS"; // Acción para el éxito al eliminar una solicitud
+export const BOOKMARK_DELETE_FAIL = "BOOKMARK_DELETE_FAIL"; // Acción para el fallo al eliminar una solicitud
