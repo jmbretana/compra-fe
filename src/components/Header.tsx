@@ -49,7 +49,7 @@ function HeaderComponent(props: any) {
       data-testid="headerDOM"
     >
       <Typography variant="h6" sx={{ my: 2 }}>
-        Salve
+        Compra
       </Typography>
       <Divider />
       <List>

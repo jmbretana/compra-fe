@@ -16,7 +16,7 @@ if (rootEl) {
   root.render(
     <React.StrictMode>
       <Helmet>
-        <title>Salve</title>
+        <title>Compra</title>
         <link
           rel="icon"
           type="image/png"

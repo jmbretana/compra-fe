@@ -117,7 +117,7 @@ const CarritoPedidoPDF: React.FC<PdfPreviewProps> = ({ data }) => {
               alignItems: "center",
             }}
           >
-            <Text style={styles.reportTitle}>Salve</Text>
+            <Text style={styles.reportTitle}>Compra</Text>
           </View>
         </View>
       </View>

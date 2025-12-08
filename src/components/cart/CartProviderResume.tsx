@@ -117,7 +117,7 @@ const CarritoProviderResume: React.FunctionComponent<
   const contactWhatsapp = (phone: string) => {
     const cleaned = phone.replace(/\D/g, "").replace(/^0+/, ""); // Remove non-digits and leading zeros
     const text =
-      "Hola, soy de la empresa Salve, me comunico con ustedes para hacerles llegar un pedido. Adjunto a continuación el mismo";
+      "Hola, soy de la empresa compra, me comunico con ustedes para hacerles llegar un pedido. Adjunto a continuación el mismo";
 
     const url =
       "https://api.whatsapp.com/send/?phone=549" + cleaned + "&text=" + text;

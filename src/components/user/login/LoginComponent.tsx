@@ -152,7 +152,7 @@ export default function JoySignInSideTemplate() {
             sx={{ py: 3, display: "flex", justifyContent: "space-between" }}
           >
             <Box sx={{ gap: 2, display: "flex", alignItems: "center" }}>
-              <Typography level="title-lg">Salve</Typography>
+              <Typography level="title-lg">Compra</Typography>
             </Box>
             <ColorSchemeToggle />
           </Box>

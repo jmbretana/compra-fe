@@ -65,7 +65,7 @@ export default function SideMenu() {
             pb: "2px",
           }}
         >
-          Salve
+          Compra
         </Typography>
       </Box>
       <Box
