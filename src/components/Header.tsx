@@ -15,7 +15,10 @@ import { Link } from "react-router-dom";
 import { useAuth } from "@auth/AuthContext";
 import { COLORS } from "@values/colors";
 import MenuContent from "./menu/MenuContent";
-import Logo from "@public/salve_logo2.svg";
+
+//import Logo from "@public/salve_logo2.svg";
+import Logo from "@public/argentina-logo.png";
+
 import LogoutRoundedIcon from "@mui/icons-material/LogoutRounded";
 
 const drawerWidth = 240;

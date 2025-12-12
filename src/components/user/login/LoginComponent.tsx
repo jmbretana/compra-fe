@@ -25,8 +25,12 @@ import {
 import DarkModeRoundedIcon from "@mui/icons-material/DarkModeRounded";
 import LightModeRoundedIcon from "@mui/icons-material/LightModeRounded";
 
-import Logo from "@public/salve_logo2.svg";
-import LogoNegative from "@public/salve_logo3.svg";
+import Logo from "@public/argentina-logo.png";
+import LogoNegative from "@public/argentina-logo.png";
+
+//import Logo from "@public/salve_logo2.svg";
+//import LogoNegative from "@public/salve_logo3.svg";
+
 import { COLORS } from "@values/colors";
 
 interface FormElements extends HTMLFormControlsCollection {
@@ -152,7 +156,7 @@ export default function JoySignInSideTemplate() {
             sx={{ py: 3, display: "flex", justifyContent: "space-between" }}
           >
             <Box sx={{ gap: 2, display: "flex", alignItems: "center" }}>
-              <Typography level="title-lg">Compra</Typography>
+              <Typography level="title-lg">Compras Argentina Interior</Typography>
             </Box>
             <ColorSchemeToggle />
           </Box>
